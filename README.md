@@ -1,7 +1,7 @@
 python-react
 ============
 
-[![Build Status](https://travis-ci.org/markfinger/python-react.svg?branch=master)](https://travis-ci.org/markfinger/python-react)
+[![Build Status](https://travis-ci.org/genarocoronel/React-Python-Flask-Django.svg?branch=master)](https://travis-ci.org/markfinger/python-react)
 
 Server-side rendering of React components with data from your Python system
 
@@ -325,17 +325,17 @@ resolve relative paths to components via django's static file finders.
 ### How do I handle Django's translation and gettext with React components?
 
 [sillygod](https://github.com/sillygod) sparked a discussion of this at issue 
-[#69](https://github.com/markfinger/python-react/issues/69).
+[#69](https://github.com/genarocoronel/React-Python-Flask-Django/issues/69).
 
 ### Can python-react integrate with Web2Py?
 
 [Anima-t3d](https://github.com/Anima-t3d) has a write-up of their experience
-in [#70](https://github.com/markfinger/python-react/issues/70#issuecomment-254396083).
+in [#70](https://github.com/genarocoronel/React-Python-Flask-Django/issues/70#issuecomment-254396083).
 
 ### How do I pass child components to the root component?
 
 [Anima-t3d](https://github.com/Anima-t3d) sparked a discussion of this at issue 
-[#71](https://github.com/markfinger/python-react/issues/71).
+[#71](https://github.com/genarocoronel/React-Python-Flask-Django/issues/71).
 
 
 Running the tests
